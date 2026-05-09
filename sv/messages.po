@@ -2592,7 +2592,7 @@ msgstr "Nationella ordrar"
 #. placeholder {0}: data.partialPayout
 #: src/components/_user/notification/notification.frontConfig.tsx:1567
 msgid "Country paid <0>{0}</0> for damages done."
-msgstr "Landet betalade <0>{0}</0> för åsamkad skada."
+msgstr "Landet betalade <0>{0}</0> för utdelad skada."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
@@ -2770,35 +2770,35 @@ msgstr "Mörkare karta"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:122
 msgid "Deal <0>{count}</0> for allies or your country"
-msgstr "Dela ut <0>{count}</0> skada till stöd för allierade eller ditt land"
+msgstr "Åsamka <0>{count}</0> skada till stöd för allierade eller ditt land"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:102
 msgid "Deal <0>{count}</0> in battles"
-msgstr "Dela ut <0>{count}</0> skada i strider"
+msgstr "Åsamka <0>{count}</0> skada i strider"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:112
 msgid "Deal <0>{count}</0> on country/mu orders"
-msgstr "Dela ut <0>{count}</0> skada på nationella/förbandets order"
+msgstr "Åsamka <0>{count}</0> skada på nationel/förbandets order"
 
 #: src/components/_user/user/MilitaryRanksInfoModal.tsx:94
 msgid "Deal damage in battles to increase your military rank and unlock attack bonuses."
-msgstr "Dela ut skada i strider för att höja din militära grad och låsa upp anfallsbonusar."
+msgstr "Åsamka skada i strider för att höja din militära grad och låsa upp anfallsbonusar."
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:118
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
-msgstr "Dela ut skada i strider tillsammans med dina förbandsmedlemmar för att stiga i nivå varje månad och tjäna belöningar. Återställs den första varje månad."
+msgstr "Åsamka skada i strider tillsammans med dina förbandsmedlemmar för att stiga i nivå varje månad och tjäna belöningar. Återställs den första varje månad."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:100
 msgid "Deal Damages"
-msgstr "Dela ut skada"
+msgstr "Åsamka skada"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:120
 msgid "Deal Damages for Allies or Country"
-msgstr "Dela ut skada för allierade eller land"
+msgstr "Tillfoga skada för allierade eller land"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:110
 msgid "Deal Damages on Orders"
-msgstr "Dela ut skada på order"
+msgstr "Tillfoga skada enligt gällande stridsorder"
 
 #: src/utils/translations.tsx:59
 msgid "Deals a fucking big lot of damages"
