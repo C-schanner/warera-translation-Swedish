@@ -3850,7 +3850,7 @@ msgstr "Hjälp spelet att växa"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:157
 msgid "High Commander"
-msgstr "Högste Befälhavare"
+msgstr "Huvudbefälhavare"
 
 #: src/components/_military/battle/BattlesHeader.tsx:31
 msgid "History"
@@ -6907,7 +6907,7 @@ msgstr "Supportermedlemskap"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
 msgid "Supreme Commander"
-msgstr "Högste Befälhavare"
+msgstr "Överbefälhavare"
 
 #: src/pages/country/[countryId]/index.tsx:234
 msgid "Sworn enemy"
