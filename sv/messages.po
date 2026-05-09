@@ -15,23 +15,23 @@ msgstr ""
 
 #: src/components/_common/GameRules.tsx:55
 msgid "  a. Trading equipment"
-msgstr ""
+msgstr "a. Handel med utrustning"
 
 #: src/components/_common/GameRules.tsx:57
 msgid "  b. Working for each other"
-msgstr ""
+msgstr "b. Ömsesidigt arbete"
 
 #: src/components/_common/GameRules.tsx:129
 msgid " - Funneling assets without proper exchange"
-msgstr ""
+msgstr "- Överföring av tillgångar utan skälig motprestation"
 
 #: src/components/_common/GameRules.tsx:127
 msgid " - Gear merging schemes *"
-msgstr ""
+msgstr "- Systematiska materielupplägg *"
 
 #: src/components/_common/GameRules.tsx:117
 msgid " - Low-wage labor (lower than 0.7x and above 1.3x the normal salary)"
-msgstr ""
+msgstr " - Oskälig lönesättning (lägre än 0.7x eller högre än 1.3x av normallön)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:412
@@ -40,15 +40,15 @@ msgstr " - Orsak: {0}"
 
 #: src/components/_common/GameRules.tsx:133
 msgid " - Repeated donations of resources or money to a military unit or country."
-msgstr ""
+msgstr " - Upprepade bidrag av resurser eller kapital till ett militärt förband eller en stat."
 
 #: src/components/_common/GameRules.tsx:131
 msgid " - Repeatedly tipping articles"
-msgstr ""
+msgstr " - Systematiskt dricksgivande till artiklar"
 
 #: src/components/_common/GameRules.tsx:123
 msgid " - Using outside market standards or manipulated trade prices"
-msgstr ""
+msgstr " - Användning av externa marknadsnormer eller manipulerade handelspriser"
 
 #: src/components/_user/premium/PremiumActions.tsx:71
 msgid " Gift a sub"
