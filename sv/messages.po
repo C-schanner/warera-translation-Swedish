@@ -4557,7 +4557,7 @@ msgstr "Medlemmar"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2072
 msgid "Mentioned in message"
-msgstr "Nämns i meddelande"
+msgstr "Omnämnd i meddelande"
 
 #: src/pages/country/[countryId]/auctions.tsx:25
 #: src/pages/country/[countryId]/index.tsx:392
