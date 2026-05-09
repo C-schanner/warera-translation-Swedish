@@ -536,7 +536,7 @@ msgstr "<0/><1>Försvagning</1> upphör <2/>"
 
 #: src/components/_user/user/UserHeader.tsx:351
 msgid "<0/>Last connection was <1><2/></1>"
-msgstr "<0/>Senaste anslutning: <1><2/></1>"
+msgstr "<0/>Senast ansluten: <1><2/></1>"
 
 #: src/pages/war/[warId]/index.tsx:55
 msgid "<0/>Priority ends in <1/>"
@@ -814,7 +814,7 @@ msgstr "1★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:12
 msgid "1★ Initiate"
-msgstr "1★ Rekryt"
+msgstr "1★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:87
 msgid "1★ Lieutenant"
@@ -934,7 +934,7 @@ msgstr "2★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:13
 msgid "2★ Initiate"
-msgstr "2★ Rekryt"
+msgstr "2★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:88
 msgid "2★ Lieutenant"
@@ -1054,7 +1054,7 @@ msgstr "3★ General"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:14
 msgid "3★ Initiate"
-msgstr "3★ Rekryt"
+msgstr "3★ Novis"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:89
 msgid "3★ Lieutenant"
@@ -2117,7 +2117,7 @@ msgstr "Chans per träff till omedelbart byte:<0/>Varje <1>1 %</1> ger <2>1 %</2
 
 #: src/components/_user/user/skills.frontConfig.tsx:138
 msgid "Chance to dodge all incoming damage when fighting in battles.<0/>Dodging also prevents equipment durability from being consumed."
-msgstr "Chans att undvika all inkommande skada i strid. <0/>Lyckat undvikande förhindrar även slitage på utrustning."
+msgstr "Chans att undvika all inkommande skada i strid. <0/>Lyckad undanmanöver förhindrar även slitage på utrustning."
 
 #: src/components/_user/user/skills.frontConfig.tsx:124
 msgid "Chance to hit the target.<0/>Misses cannot crit, and deal half damage."
@@ -2608,7 +2608,7 @@ msgstr "Nationell turneringsvinnare"
 
 #: src/pages/country/[countryId]/wars.tsx:29
 msgid "Country wars"
-msgstr "Nationella krig"
+msgstr "Nationens krig"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:186
 #: src/pages/user/[userId]/inventory.tsx:40
@@ -4012,7 +4012,7 @@ msgstr "Ursprunglig bebyggelse"
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:11
 msgid "Initiate"
-msgstr "Rekryt"
+msgstr "Novis"
 
 #: src/components/_common/GameRules.tsx:37
 msgid "Intentional or repeated violations of this policy will result in a permanent ban."
@@ -6780,7 +6780,7 @@ msgstr "Startade<0/><1/>"
 
 #: src/components/_user/mission/MissionsList.tsx:215
 msgid "Starting"
-msgstr "Startar"
+msgstr "Inledande"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:31
 msgid "Starting from the bottom..."
