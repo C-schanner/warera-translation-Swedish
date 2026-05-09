@@ -312,7 +312,7 @@ msgstr "<0/> har skapats och startar inom kort."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:211
 msgid "<0/> has been elected president of <1/>"
-msgstr "<0/> har valts till president i <1/>"
+msgstr "<0/> har valts till statsminister i <1/>"
 
 #. placeholder {0}: data.amount
 #: src/components/_political/event/event.frontConfig.tsx:210
@@ -490,7 +490,7 @@ msgstr "<0/> vill sluta fred med ditt land"
 
 #: src/components/_political/event/event.frontConfig.tsx:191
 msgid "<0/> was elected president of <1/>"
-msgstr "<0/> valdes till president i <1/>"
+msgstr "<0/> valdes till statsminister i <1/>"
 
 #. placeholder {0}: ts[data.governmentRole]
 #: src/components/_user/notification/notification.frontConfig.tsx:524
@@ -514,7 +514,7 @@ msgstr "<0/> vann striden ({0}-{1})"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:335
 msgid "<0/> won the primary election in <1/> and can now run for president!"
-msgstr "<0/> vann primärvalet i <1/> och kan nu kandidera till president."
+msgstr "<0/> vann primärvalet i <1/> och kan nu kandidera till statsminister."
 
 #. placeholder {0}: data.roundNumber
 #: src/components/_user/notification/notification.frontConfig.tsx:623
@@ -2065,7 +2065,7 @@ msgstr "Kandidat"
 
 #: src/components/_political/party/party.frontConfig.tsx:262
 msgid "Cannot have a vice president or ministers."
-msgstr "Kan ej tillsätta vicepresident eller ministrar."
+msgstr "Kan ej tillsätta vice statsminister eller ministrar."
 
 #: src/components/_political/party/party.frontConfig.tsx:134
 msgid "Cannot have allies."
@@ -2397,7 +2397,7 @@ msgstr "Gratulerar! Du har valts till ny ledare för <0/>."
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:193
 msgid "Congratulations! You have been elected as the new president of {0}"
-msgstr "Gratulerar! Du har valts till ny president i {0}."
+msgstr "Gratulerar! Du har valts till ny statsminister i {0}."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:307
 msgid "Congratulations! You have been elected to the council of <0/>"
@@ -2596,7 +2596,7 @@ msgstr "Landet betalade <0>{0}</0> för åsamkad skada."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:51
 msgid "Country President"
-msgstr "Landets president"
+msgstr "Landets Statsminister"
 
 #: src/pages/country/[countryId]/index.tsx:434
 msgid "Country production bonus"
@@ -3278,7 +3278,7 @@ msgstr "Ideologier"
 
 #: src/pages/party/[partyId]/index.tsx:51
 msgid "Ethics are bonuses from the party, applied when the president is a member of this party."
-msgstr "Ideologier är bonusar från partiet som tillämpas när presidenten är medlem i detta parti."
+msgstr "Ideologier är bonusar från partiet som tillämpas när statsministern är medlem i detta parti."
 
 #: src/components/_political/partyMotion/PartyMotionTypeSelect.tsx:83
 msgid "Ethics motions"
@@ -3940,12 +3940,12 @@ msgstr "Avsätt partiledare"
 #: src/components/_political/law/law.frontConfig.tsx:173
 #: src/components/_political/law/lawNames.tsx:20
 msgid "Impeach president"
-msgstr "Avsätt presidenten"
+msgstr "Avsätt statsministern"
 
 #: src/components/_political/law/law.frontConfig.tsx:174
 #: src/components/_political/law/law.frontConfig.tsx:176
 msgid "Impeach the current president"
-msgstr "Avsätt den nuvarande presidenten"
+msgstr "Avsätt den nuvarande statsministern"
 
 #: src/components/_political/party/party.frontConfig.tsx:234
 msgid "Imperialism vs Republicanism"
@@ -4947,7 +4947,7 @@ msgstr "Ny partiledare"
 #: src/components/_political/event/EventList.tsx:66
 #: src/components/_user/notification/notification.frontConfig.tsx:1950
 msgid "New president"
-msgstr "Ny president"
+msgstr "Ny statsminister"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1981
 msgid "New referred user"
@@ -5244,7 +5244,7 @@ msgstr "Endast förbandsägare/befälhavare kan registrera sitt förband"
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:148
 msgid "Only presidents can register their country"
-msgstr "Endast presidenter kan registrera sitt land"
+msgstr "Endast statsministrar kan registrera sitt land"
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:55
 msgid "Only supporters can see their spending and income breakdown."
@@ -5621,19 +5621,19 @@ msgstr "Premium har börjat ge effekt"
 
 #: src/components/_political/government/Government.tsx:64
 msgid "President"
-msgstr "President"
+msgstr "Statsminister"
 
 #: src/components/_political/election/election.frontConfig.tsx:23
 msgid "Presidential election"
-msgstr "Presidentval"
+msgstr "Statsministerval"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:133
 msgid "Presidential election candidacy is now open in <0/>"
-msgstr "Kandidatur till presidentvalet är nu öppen i <0/>"
+msgstr "Kandidatur till statsministervalet är nu öppen i <0/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:173
 msgid "Presidential election has ended in <0/>. Check the results!"
-msgstr "Presidentvalet i <0/> har avslutats. Se resultatet."
+msgstr "Statsministervalet i <0/> har avslutats. Se resultatet."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:153
 msgid "Presidential election voting is now open in <0/>"
@@ -5641,7 +5641,7 @@ msgstr "Röstning i presidentvalet är nu öppen i <0/>"
 
 #: src/pages/country/[countryId]/elections.tsx:56
 msgid "Presidential elections"
-msgstr "Presidentval"
+msgstr "Statsministerval"
 
 #: src/components/_political/election/election.frontConfig.tsx:43
 msgid "Primary election"
@@ -6756,7 +6756,7 @@ msgstr "Starta partiets primärval omedelbart"
 #: src/components/_political/law/law.frontConfig.tsx:158
 #: src/components/_political/law/law.frontConfig.tsx:160
 msgid "Start a presidential election, now"
-msgstr "Starta presidentval omedelbart"
+msgstr "Starta statsministerval omedelbart"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:113
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:115
@@ -6771,7 +6771,7 @@ msgstr "Starta riksdagsval"
 #: src/components/_political/law/law.frontConfig.tsx:157
 #: src/components/_political/law/lawNames.tsx:17
 msgid "Start presidential election"
-msgstr "Starta presidentval"
+msgstr "Starta statsministerval"
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:112
 msgid "Start revolution"
@@ -6813,7 +6813,7 @@ msgstr "Statistik"
 
 #: src/components/_layout/LayoutUserMenu.tsx:194
 msgid "Stats regenerate every hour"
-msgstr "Statistik återhämtas varje timme"
+msgstr "Förmågorna återhämtas varje timme"
 
 #: src/pages/war/[warId]/index.tsx:40
 msgid "Status"
@@ -7075,7 +7075,7 @@ msgstr "Detta företag är inaktivt eftersom ägaren har nått företagsgränsen
 
 #: src/pages/country/[countryId]/index.tsx:125
 msgid "This country has no president or active congress member, you can take control of it."
-msgstr "Detta land saknar president eller aktiv riksdagsledamot; du kan ta kontroll över det."
+msgstr "Detta land saknar statsminister eller aktiv riksdagsledamot; du kan ta kontroll över det."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:42
 msgid "This equipment is green and so is grass"
@@ -7739,7 +7739,7 @@ msgstr "Viceamiral"
 #: src/components/_political/government/Government.tsx:73
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:65
 msgid "Vice President"
-msgstr "Vicepresident"
+msgstr "Vice Statsminister"
 
 #: src/components/_military/mercenaryContract/MercenaryContractItem.tsx:60
 msgid "View details"
@@ -7991,11 +7991,11 @@ msgstr "Du är redan riksdagsledamot i ett annat land. Avgå först."
 
 #: src/pages/country/[countryId]/index.tsx:111
 msgid "You are already president of another country. Resign first."
-msgstr "Du är redan president i ett annat land. Avgå först."
+msgstr "Du är redan statsminister i ett annat land. Avgå först."
 
 #: src/pages/country/[countryId]/index.tsx:113
 msgid "You are already vice president of another country. Resign first."
-msgstr "Du är redan vicepresident i ett annat land. Avgå först."
+msgstr "Du är redan vice statsminister i ett annat land. Avgå först."
 
 #: src/pages/companies.tsx:45
 #: src/pages/user/[userId]/companies.tsx:64
@@ -8251,7 +8251,7 @@ msgstr "Du valdes till riksdagsledamot i ditt land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:52
 msgid "You were elected as president of your country"
-msgstr "Du valdes till president för ditt land"
+msgstr "Du valdes till statsminister för ditt land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:46
 msgid "You were here at the beginning of War Era"
@@ -8263,7 +8263,7 @@ msgstr "Du nominerades till regeringsledamot i ett land"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:67
 msgid "You were nominated as vice president of your country"
-msgstr "Du nominerades till vicepresident för ditt land"
+msgstr "Du nominerades till vice statsminister för ditt land"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
